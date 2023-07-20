@@ -9,7 +9,7 @@ images:
     newTag: gha-5575175539
   - name: bretfisher/wordsmith-web
     newName: ghcr.io/groupanized/wordsmith-web
-    newTag: stable-20230717-cf40ba3
+    newTag: gha-5606076116
 configMapGenerator:
   - name: db-schema
     files:
